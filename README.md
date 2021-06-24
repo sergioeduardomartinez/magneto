@@ -22,6 +22,7 @@ _Que cosas necesitas para instalar el software y como instalarlas_
 1. Clonar https://github.com/sergioeduardomartinez/magneto.git
 2. 2. Ejecutar Maven clean install
 3. Iniciar el servidor default de SpringBoot
+4. Ejecutar archivo dBMagneto.sql , desde la base de datos Mysql
 
 
 
