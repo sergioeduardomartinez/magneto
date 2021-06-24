@@ -4,6 +4,13 @@
 
 Magneto API que permite validar si la secuencia de adn ingresada es de un mutante o de un humano
 
+Dominio POST AWS
+
+http://ec2-18-118-173-59.us-east-2.compute.amazonaws.com:8080//mutant/
+
+Dominio GET AWS
+
+http://ec2-18-118-173-59.us-east-2.compute.amazonaws.com:8080/stats/
 
 ### Pre-requisitos 📋
 
