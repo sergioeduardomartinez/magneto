@@ -7,7 +7,6 @@ Magneto API que permite validar si la secuencia de adn ingresada es de un mutant
 
 ### Pre-requisitos 📋
 
-_Que cosas necesitas para instalar el software y como instalarlas_
 
 ```
 1. JDK 11
@@ -25,4 +24,6 @@ _Que cosas necesitas para instalar el software y como instalarlas_
 4. Ejecutar archivo dBMagneto.sql , desde la base de datos Mysql
 
 
+## Evidencias
 
+Documento evidencias eviendenciasAPiMageno.docx
